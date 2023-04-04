@@ -1,5 +1,9 @@
 import java.util.Scanner;
-
+/**
+ * @author Daniel Mensor;
+ * 
+ * Exercício lendo nome e idade e repetindo até que informem 0 como nome;
+ */
 public class Exercicio1 {
     public static void main(String[] args) throws Exception {
         

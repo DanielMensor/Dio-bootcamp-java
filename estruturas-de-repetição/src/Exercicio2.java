@@ -3,7 +3,11 @@ import java.util.Scanner;
 
 public class Exercicio2 {
     
-
+/**
+ * Exercicio lendo uma nota de 0 a 10, caso o numero seja errado, pede para informa novamente.
+ * 
+ * @author Daniel Mensor;
+ */
     public static void main(String[] args) {
         
         Scanner scan = new Scanner(System.in).useLocale(Locale.ENGLISH);
