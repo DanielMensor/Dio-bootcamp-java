@@ -1,3 +1,4 @@
+import java.util.Locale;
 import java.util.Scanner;
 
 public class Exercicio2 {
@@ -5,7 +6,7 @@ public class Exercicio2 {
 
     public static void main(String[] args) {
         
-        Scanner scan = new Scanner(System.in);
+        Scanner scan = new Scanner(System.in).useLocale(Locale.ENGLISH);
 
         double nota;
 
