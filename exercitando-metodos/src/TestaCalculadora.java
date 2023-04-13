@@ -21,7 +21,6 @@ public class TestaCalculadora {
         Mensagem.obterMensagem(8);
         Mensagem.obterMensagem(14);
 
-    
         
     }
 }
